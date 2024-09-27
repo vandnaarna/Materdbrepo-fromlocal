@@ -1,0 +1,6 @@
+@MasterdbAPI_HostAddress = http://localhost:5044
+
+GET {{MasterdbAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
